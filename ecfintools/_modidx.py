@@ -6,4 +6,12 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/vtecftwy/ecfintools',
                 'lib_path': 'ecfintools'},
   'syms': { 'ecfintools.core': { 'ecfintools.core.df_safe_sampling': ('core.html#df_safe_sampling', 'ecfintools/core.py'),
-                                 'ecfintools.core.safe_date': ('core.html#safe_date', 'ecfintools/core.py')}}}
+                                 'ecfintools.core.load_test_df': ('core.html#load_test_df', 'ecfintools/core.py'),
+                                 'ecfintools.core.safe_date': ('core.html#safe_date', 'ecfintools/core.py')},
+            'ecfintools.finance': {},
+            'ecfintools.ohlc': {'ecfintools.ohlc.candlestick_plot': ('ohlcv.html#candlestick_plot', 'ecfintools/ohlc.py')},
+            'ecfintools.plotting': { 'ecfintools.plotting.hist_timeseries': ('plotting.html#hist_timeseries', 'ecfintools/plotting.py'),
+                                     'ecfintools.plotting.normal_probability_plot': ( 'plotting.html#normal_probability_plot',
+                                                                                      'ecfintools/plotting.py'),
+                                     'ecfintools.plotting.plot_acfs': ('plotting.html#plot_acfs', 'ecfintools/plotting.py'),
+                                     'ecfintools.plotting.plot_timeseries': ('plotting.html#plot_timeseries', 'ecfintools/plotting.py')}}}
