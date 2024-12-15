@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ecfintools"
+  site-url: "https://vtecftwy.github.io/ecfintools"
+  description: "Set of tools to handle financial data"
+  repo-branch: main
+  repo-url: "https://github.com/vtecftwy/ecfintools"
