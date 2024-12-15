@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://vtecftwy.github.io',
                 'git_url': 'https://github.com/vtecftwy/ecfintools',
                 'lib_path': 'ecfintools'},
-  'syms': {'ecfintools.core': {'ecfintools.core.foo': ('core.html#foo', 'ecfintools/core.py')}}}
+  'syms': { 'ecfintools.core': { 'ecfintools.core.df_safe_sampling': ('core.html#df_safe_sampling', 'ecfintools/core.py'),
+                                 'ecfintools.core.safe_date': ('core.html#safe_date', 'ecfintools/core.py')}}}
