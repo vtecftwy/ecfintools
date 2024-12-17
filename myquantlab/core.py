@@ -13,6 +13,8 @@ from typing import Optional
 
 import pandas as pd
 
+from . import PACKAGE_ROOT
+
 # %% ../nbs-dev/00_core.ipynb 8
 def safe_date(
     dt:str|datetime # date time to validate or convert
@@ -64,7 +66,7 @@ def time_slice_df(
 
 # %% ../nbs-dev/00_core.ipynb 14
 def load_test_df() -> pd.DataFrame:
-    p2csv = Path('data-dev/ohlcv-data.csv')
+    p2csv = (PACKAGE_ROOT / '../nbs-dev/data-dev/ohlcv-data.csv').resolve()
     assert p2csv.is_file()
     df = pd.read_csv(p2csv, header=None, parse_dates=[[0,1]], index_col=0)
     df.columns = 'Open High Low Close Volume'.split()
