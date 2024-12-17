@@ -1,0 +1,82 @@
+{
+    "M1": {
+        "FX": {
+            "name": "M1",
+            "url-param": ""
+        },
+        "STOCK": {
+            "name": "M1",
+            "url-param": ""
+        }
+    },
+    "M5": {
+        "FX": {
+            "name": "M5",
+            "url-param": ""
+        },
+        "STOCK": {
+            "name": "M5",
+            "url-param": ""
+        }
+    },
+    "M15": {
+        "FX": {
+            "name": "M15",
+            "url-param": ""
+        },
+        "STOCK": {
+            "name": "M15",
+            "url-param": ""
+        }
+    },
+    "M30": {
+        "FX": {
+            "name": "M30",
+            "url-param": ""
+        },
+        "STOCK": {
+            "name": "M30",
+            "url-param": ""
+        }
+    },
+    "H1": {
+        "FX": {
+            "name": "H1",
+            "url-param": ""
+        },
+        "STOCK": {
+            "name": "H1",
+            "url-param": ""
+        }
+    },
+    "D": {
+        "FX": {
+            "name": "D",
+            "url-param": "1d"
+        },
+        "STOCK": {
+            "name": "D",
+            "url-param": "1d"
+        }
+    },
+    "W": {
+        "FX": {
+            "name": "W",
+            "url-param": "1wk"
+        },
+        "STOCK": {
+            "name": "W",
+            "url-param": "1wk"
+        }
+    },
+    "M": {
+        "FX": {
+            "name": "M",
+            "url-param": "1mo"
+        },
+        "STOCK": {
+            "name": "M",
+            "url-param": "1mo"
+        }
+    }
+}

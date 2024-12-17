@@ -1,0 +1,42 @@
+{
+    "default": {
+        "api_quota": 0,
+        "api_quota_period": 0,
+        "api_max_frequency": 0,
+        "api_max_frequency_time": 0,
+        "api_last_call_datetime": "1900-01-01 00:00:00",
+        "api_current_period_total_calls": 0
+        },
+    "alphavantage": {
+        "api_quota": 500,
+        "api_quota_period": 24,
+        "api_max_frequency": 5,
+        "api_max_frequency_time": 60,
+        "api_last_call_datetime": "2021-12-10 00:00:00",
+        "api_current_period_total_calls": 320
+        },
+    "axitrader": {
+        "api_quota": 0,
+        "api_quota_period": 0,
+        "api_max_frequency": 0,
+        "api_max_frequency_time": 0,
+        "api_last_call_datetime": "2021-12-10 00:00:00",
+        "api_current_period_total_calls": 0
+        },
+    "quandl": {
+        "api_quota": 0,
+        "api_quota_period": 0,
+        "api_max_frequency": 0,
+        "api_max_frequency_time": 0,
+        "api_last_call_datetime": "1900-01-01 00:00:00",
+        "api_current_period_total_calls": 0
+        },
+    "yahoo": {
+        "api_quota": 0,
+        "api_quota_period": 0,
+        "api_max_frequency": 0,
+        "api_max_frequency_time": 0,
+        "api_last_call_datetime": "1900-01-01 00:00:00",
+        "api_current_period_total_calls": 0
+        }
+}

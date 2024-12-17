@@ -1,0 +1,90 @@
+{
+    "M1": {
+        "mode": "compact",
+        "FX": {
+            "name": "FX_INTRADAY_1min",
+            "url-param": "FX_INTRADAY&interval=1min"
+        },
+        "STOCK": {
+            "name": "STOCK_INTRADAY_1min",
+            "url-param": "TIME_SERIES_INTRADAY&interval=1min"
+        }
+    },
+    "M5": {
+        "mode": "compact",
+        "FX": {
+            "name": "FX_INTRADAY_5min",
+            "url-param": "FX_INTRADAY&interval=5min"
+        },
+        "STOCK": {
+            "name": "STOCK_INTRADAY_5min",
+            "url-param": "TIME_SERIES_INTRADAY&interval=5min"
+        }
+    },
+    "M15": {
+        "mode": "compact",
+        "FX": {
+            "name": "FX_INTRADAY_15min",
+            "url-param": "FX_INTRADAY&interval=15min"
+        },
+        "STOCK": {
+            "name": "STOCK_INTRADAY_15min",
+            "url-param": "TIME_SERIES_INTRADAY&interval=15min"
+        }
+    },
+    "M30": {
+        "mode": "compact",
+        "FX": {
+            "name": "FX_INTRADAY_30min",
+            "url-param": "FX_INTRADAY&interval=30min"
+        },
+        "STOCK": {
+            "name": "STOCK_INTRADAY_30min",
+            "url-param": "TIME_SERIES_INTRADAY&interval=30min"
+        }
+    },
+    "H1": {
+        "mode": "compact",
+        "FX": {
+            "name": "FX_INTRADAY_60min",
+            "url-param": "FX_INTRADAY&interval=60min"
+        },
+        "STOCK": {
+            "name": "STOCK_INTRADAY_60min",
+            "url-param": "TIME_SERIES_INTRADAY&interval=60min"
+        }
+    },
+    "D": {
+        "mode": "compact",
+        "FX": {
+            "name": "FX_DAILY",
+            "url-param": "FX_DAILY"
+        },
+        "STOCK": {
+            "name": "STOCK_DAILY",
+            "url-param": "TIME_SERIES_DAILY"
+        }
+    },
+    "W": {
+        "mode": "compact",
+        "FX": {
+            "name": "FX_WEEKLY",
+            "url-param": "FX_WEEKLY"
+        },
+        "STOCK": {
+            "name": "STOCK_WEEKLY",
+            "url-param": "TIME_SERIES_WEEKLY"
+        }
+    },
+    "M": {
+        "mode": "compact",
+        "FX": {
+            "name": "FX_MONTHLY",
+            "url-param": "FX_MONTHLY"
+        },
+        "STOCK": {
+            "name": "STOCK_MONTHLY",
+            "url-param": "TIME_SERIES_MONTHLY"
+        }
+    }
+}

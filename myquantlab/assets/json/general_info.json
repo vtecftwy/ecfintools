@@ -1,0 +1,11 @@
+{
+    "alphavantage": {
+        "first_350": false
+        },
+    "axitrader": {
+        "empty": 0
+        },
+    "quandl": {
+        "emtpy": 0
+        }
+}

@@ -58,9 +58,9 @@ def hist_timeseries(
         rng = np.random.default_rng()
         z = rng.normal(loc=ts.mean(), scale=ts.std(), size=n)
 
-        ax.hist(ts, bins=bins, histtype='step', label='TS')
-        ax.hist(z, bins=bins, histtype='step', label='Gaussian')
-        ax.legend()
+        ax.hist(ts, bins=bins, histtype='step', label='TS')      # type: ignore
+        ax.hist(z, bins=bins, histtype='step', label='Gaussian') # type: ignore
+        ax.legend() # type: ignore
     plt.show()
 
 

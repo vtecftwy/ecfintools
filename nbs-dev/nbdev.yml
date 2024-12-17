@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "ecfintools"
-  site-url: "https://vtecftwy.github.io/ecfintools"
-  description: "Set of tools to handle financial data"
+  title: "myquantlab"
+  site-url: "https://vtecftwy.github.io/myquantlab"
+  description: "A collection of tools for quantitative finance."
   repo-branch: main
-  repo-url: "https://github.com/vtecftwy/ecfintools"
+  repo-url: "https://github.com/vtecftwy/myquantlab"

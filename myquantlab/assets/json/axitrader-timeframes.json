@@ -1,0 +1,138 @@
+{
+    "D": {
+        "FX": {
+            "name": "1440"
+        },
+        "STOCKS": {
+            "name": "1440"
+        },
+        "CASH CFD": {
+            "name": "1440"
+        },
+        "FUTURE CFD": {
+            "name": "1440"
+        },
+        "OTHERS": {
+            "name": "1440"
+        }
+    },
+    "H1": {
+        "FX": {
+            "name": "60"
+        },
+        "STOCKS": {
+            "name": "60"
+        },
+        "CASH CFD": {
+            "name": "60"
+        },
+        "FUTURE CFD": {
+            "name": "60"
+        },
+        "OTHERS": {
+            "name": "60"
+        }
+    },
+    "M": {
+        "FX": {
+            "name": "43200"
+        },
+        "STOCKS": {
+            "name": "43200"
+        },
+        "CASH CFD": {
+            "name": "43200"
+        },
+        "FUTURE CFD": {
+            "name": "43200"
+        },
+        "OTHERS": {
+            "name": "43200"
+        }
+    },
+    "M1": {
+        "FX": {
+            "name": "1"
+        },
+        "STOCKS": {
+            "name": "1"
+        },
+        "CASH CFD": {
+            "name": "1"
+        },
+        "FUTURE CFD": {
+            "name": "1"
+        },
+        "OTHERS": {
+            "name": "1"
+        }
+    },
+    "M15": {
+        "FX": {
+            "name": "15"
+        },
+        "STOCKS": {
+            "name": "15"
+        },
+        "CASH CFD": {
+            "name": "15"
+        },
+        "FUTURE CFD": {
+            "name": "15"
+        },
+        "OTHERS": {
+            "name": "15"
+        }
+    },
+    "M30": {
+        "FX": {
+            "name": "30"
+        },
+        "STOCKS": {
+            "name": "30"
+        },
+        "CASH CFD": {
+            "name": "30"
+        },
+        "FUTURE CFD": {
+            "name": "30"
+        },
+        "OTHERS": {
+            "name": "30"
+        }
+    },
+    "M5": {
+        "FX": {
+            "name": "5"
+        },
+        "STOCKS": {
+            "name": "5"
+        },
+        "CASH CFD": {
+            "name": "5"
+        },
+        "FUTURE CFD": {
+            "name": "5"
+        },
+        "OTHERS": {
+            "name": "5"
+        }
+    },
+    "W": {
+        "FX": {
+            "name": "10080"
+        },
+        "STOCKS": {
+            "name": "10080"
+        },
+        "CASH CFD": {
+            "name": "10080"
+        },
+        "FUTURE CFD": {
+            "name": "10080"
+        },
+        "OTHERS": {
+            "name": "10080"
+        }
+    }
+}
